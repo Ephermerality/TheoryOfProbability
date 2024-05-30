@@ -1,0 +1,246 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{durrett2019probability}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=03a107fab36174e7da5974a64ad1812d}{%
+           family={Durrett},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03a107fab36174e7da5974a64ad1812d}{%
+           family={Durrett},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{df9ac0a90bdd61b3c2ee4a6ae5f8aacd}
+      \strng{fullhash}{df9ac0a90bdd61b3c2ee4a6ae5f8aacd}
+      \strng{bibnamehash}{df9ac0a90bdd61b3c2ee4a6ae5f8aacd}
+      \strng{authorbibnamehash}{df9ac0a90bdd61b3c2ee4a6ae5f8aacd}
+      \strng{authornamehash}{df9ac0a90bdd61b3c2ee4a6ae5f8aacd}
+      \strng{authorfullhash}{df9ac0a90bdd61b3c2ee4a6ae5f8aacd}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781108473682}
+      \field{series}{Cambridge Series in Statistical and Probabilistic Mathematics}
+      \field{title}{Probability: Theory and Examples}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://books.google.com.hk/books?id=b22MDwAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.hk/books?id=b22MDwAAQBAJ
+      \endverb
+    \endentry
+    \entry{grimmett2020probability}{book}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=5a3170dcc376848081c9edf09b24d377}{%
+           family={Grimmett},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=4dc312849b4f42b85d5e9a6848fd8226}{%
+           family={Grimmett},
+           familyi={G\bibinitperiod},
+           given={D.R.P.E.M.S.G.},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=520e3e11014bc8dc079c9236b930606b}{%
+           family={Stirzaker},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{940d9e96762aca62b3517cd8ad65f0fc}
+      \strng{fullhash}{940d9e96762aca62b3517cd8ad65f0fc}
+      \strng{bibnamehash}{940d9e96762aca62b3517cd8ad65f0fc}
+      \strng{authorbibnamehash}{940d9e96762aca62b3517cd8ad65f0fc}
+      \strng{authornamehash}{940d9e96762aca62b3517cd8ad65f0fc}
+      \strng{authorfullhash}{940d9e96762aca62b3517cd8ad65f0fc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780198847601}
+      \field{title}{Probability and Random Processes: Fourth Edition}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://books.google.com.hk/books?id=l-vqDwAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.hk/books?id=l-vqDwAAQBAJ
+      \endverb
+    \endentry
+    \entry{maoshisong}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bbbb873fc7c9773a96d23c3f4fcf0e1c}{%
+           family={茆诗松等},
+           familyi={茆\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {北京}%
+      }
+      \list{publisher}{1}{%
+        {中国统计出版社}%
+      }
+      \strng{namehash}{bbbb873fc7c9773a96d23c3f4fcf0e1c}
+      \strng{fullhash}{bbbb873fc7c9773a96d23c3f4fcf0e1c}
+      \strng{bibnamehash}{bbbb873fc7c9773a96d23c3f4fcf0e1c}
+      \strng{authorbibnamehash}{bbbb873fc7c9773a96d23c3f4fcf0e1c}
+      \strng{authornamehash}{bbbb873fc7c9773a96d23c3f4fcf0e1c}
+      \strng{authorfullhash}{bbbb873fc7c9773a96d23c3f4fcf0e1c}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{概率论基础（第三版）}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{PLT}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=690f3c23a02b07c2505f8a1b6904c241}{%
+           family={Tarrès},
+           familyi={T\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{690f3c23a02b07c2505f8a1b6904c241}
+      \strng{fullhash}{690f3c23a02b07c2505f8a1b6904c241}
+      \strng{bibnamehash}{690f3c23a02b07c2505f8a1b6904c241}
+      \strng{authorbibnamehash}{690f3c23a02b07c2505f8a1b6904c241}
+      \strng{authornamehash}{690f3c23a02b07c2505f8a1b6904c241}
+      \strng{authorfullhash}{690f3c23a02b07c2505f8a1b6904c241}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lecture notes on Probability Limit Theorems}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{HTOP}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bb2d83991df51fab82e334ba89d1132}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7bb2d83991df51fab82e334ba89d1132}
+      \strng{fullhash}{7bb2d83991df51fab82e334ba89d1132}
+      \strng{bibnamehash}{7bb2d83991df51fab82e334ba89d1132}
+      \strng{authorbibnamehash}{7bb2d83991df51fab82e334ba89d1132}
+      \strng{authornamehash}{7bb2d83991df51fab82e334ba89d1132}
+      \strng{authorfullhash}{7bb2d83991df51fab82e334ba89d1132}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lecture notes on Honors Theorey of Probability}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{zhou08}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec58252d875e59e2f45ca314053d715f}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xinfeng},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Scotts Valley, CA}%
+      }
+      \list{publisher}{1}{%
+        {CreateSpace}%
+      }
+      \strng{namehash}{ec58252d875e59e2f45ca314053d715f}
+      \strng{fullhash}{ec58252d875e59e2f45ca314053d715f}
+      \strng{bibnamehash}{ec58252d875e59e2f45ca314053d715f}
+      \strng{authorbibnamehash}{ec58252d875e59e2f45ca314053d715f}
+      \strng{authornamehash}{ec58252d875e59e2f45ca314053d715f}
+      \strng{authorfullhash}{ec58252d875e59e2f45ca314053d715f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1438236662 9781438236667}
+      \field{title}{A Practical Guide to Quantitative Finance Interviews}
+      \field{year}{2008}
+      \true{nocite}
+      \keyw{finance interview quant}
+    \endentry
+    \entry{zhouminqiang}{book}{}
+      \list{publisher}{1}{%
+        {北京大学出版社}%
+      }
+      \field{sortinit}{实}
+      \field{sortinithash}{e7af7ce0a1e2a017b72bcf002cdcc2ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9787301276471}
+      \field{series}{21世纪数学规划教材, 数学基础课系列}
+      \field{title}{实变函数论}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://books.google.com.hk/books?id=m4MixQEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.hk/books?id=m4MixQEACAAJ
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
